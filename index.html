@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Edgefolio | JSON Data</title>
+
+	<meta name="keywords" content="" />
+	<meta name="description" content="">
+	<meta name="author" content="Muhammad Nadeem">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon" />
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<!-- Web Fonts  -->
+	<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800&display=swap" rel="stylesheet" type="text/css">
+	<link id="googleFonts" href="https://fonts.googleapis.com/css?family=Lato:300,400,500,600,700,800&display=swap" rel="stylesheet" type="text/css">
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+	<script src="https://kit.fontawesome.com/65b7633a67.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/framework.css">
+	<link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+	<div class="body">
+		<header id="header" class="header-transparent">
+			<div class="header-top-body py-1 custom-bg-color-grey-1">
+				<div class="header-top container">
+					<div class="header-row">
+						<div class="header-column">
+							<div class="header-row justify-content-between">
+								<a href="#main" class="skip-to-main-content-link">Skip to main content</a>
+								<div class="ps-3 ws-nowrap text-2"><span class="font-weight-bold text-color-grey advisory-text">Capital Advisory Edge</span> by <a href="#">Edgefolio</a></div>
+								<div class="pe-3 ws-nowrap">
+									<a href="#"><img src="img/icons/cog-icon.png" alt="Setting Icon" width="20"></a>
+								</div>
+							</div>
+							
+						</div>
+					</div>					
+				</div>
+			</div>
+			<div class="header-body">
+				<div class="header-container container">
+					<div class="header-row">
+
+						<div class="header-column w-100">
+							<div class="header-nav w-100 p-0">
+								<div class="header-nav justify-content-start align-items-stretch w-100">
+									<div class="header-nav-main w-100">
+										<nav class="w-100">
+											<ul class="nav nav-pills flex-column flex-lg-row w-100" id="mainNav">
+												<li>
+													<a href="#">Home</a>
+												</li>
+												<li>
+													<a href="#">Content</a>
+												</li>
+												<li>
+													<a href="#">Performance</a>
+												</li>
+												<li>
+													<a href="#">Funds</a>
+												</li>
+												<li>
+													<a href="#">Peer Groups</a>
+												</li>
+											</ul>
+										</nav>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div role="main" class="main custom-bg-color-grey-2 pb-4 pt-4">
+			<section id="json-data" class="section border-0 m-0 pt-0 pb-0 animate__animated animate__fadeInLeft animate__delay-1s">
+				<div class="container px-5">
+					<div class="row row-gutter-sm align-items-stretch justify-content-end">	
+						<div class="col-4 my-1 mb-4 pe-0">
+							<div id="table-search" class="px-1">
+								<input id="search-input" class="form-control me-2" type="search" placeholder="Search Records" aria-label="Search">
+							</div>
+						</div>
+					</div>
+
+					<div class="row row-gutter-sm align-items-stretch">					
+						<table id="data-table" class="table table-striped">
+							<thead class="table-light">
+							<tr class="table-dark">
+								<th scope="col">Name</th>
+								<th scope="col">AUM</th>
+								<th scope="col">Strategy</th>
+								<th scope="col">Inception Date</th>
+								<th scope="col">Regional Focus</th>
+								<th scope="col">YTD Performance (%)</th>
+							  </tr>
+							</thead>
+							<tbody id="data-table-body" class="table-group-divider">
+							</tbody>
+						  </table>
+					</div>
+				</div>
+			</section>
+		</div>
+	</div>
+
+	<!-- Custom JS -->
+	<script src="js/custom.js"></script>
+</body>
+</html>

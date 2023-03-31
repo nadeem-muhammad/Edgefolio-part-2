@@ -1,0 +1,74 @@
+﻿[
+    {
+        "Name": "Kulas, Trantow and Ziemann",
+        "AUM": "$142569953.20",
+        "Strategy": "Equity Long Short - Directional",
+        "Inception Date": "2018-12-26T15:54:26Z",
+        "Regional Focus": "Philippines",
+        "YTD Performance (%)": "7.54"
+    },
+    {
+        "Name": "Greenholt, Koelpin and Heller",
+        "AUM": "$149829534.76",
+        "Strategy": "Activist - Active Engagement",
+        "Inception Date": "2021-01-28T20:40:02Z",
+        "Regional Focus": "China",
+        "YTD Performance (%)": "6.99"
+    },
+    {
+        "Name": "Tillman, Jast and Kling",
+        "AUM": "$991545913.70",
+        "Strategy": "Equity Long Short - Variable Bias",
+        "Inception Date": "2018-07-12T19:02:06Z",
+        "Regional Focus": "South Korea",
+        "YTD Performance (%)": "2.12"
+    },
+    {
+        "Name": "Zboncak LLC",
+        "AUM": "$556573858.21",
+        "Strategy": "Event Driven - Special Situations",
+        "Inception Date": "2021-10-23T05:04:46Z",
+        "Regional Focus": "Brazil",
+        "YTD Performance (%)": "3.69"
+    },
+    {
+        "Name": "Volkman Inc",
+        "AUM": "$113478803.87",
+        "Strategy": "Quantitative - Equity",
+        "Inception Date": "2021-09-12T05:31:16Z",
+        "Regional Focus": "Indonesia",
+        "YTD Performance (%)": "3.01"
+    },
+    {
+        "Name": "Beer, Schuster and Stoltenberg",
+        "AUM": "$671367928.37",
+        "Strategy": "Activist - Soft Engagement",
+        "Inception Date": "2020-05-25T22:49:38Z",
+        "Regional Focus": "China",
+        "YTD Performance (%)": "3.67"
+    },
+    {
+        "Name": "Rutherford, Roob and Kovacek",
+        "AUM": "$385982775.30",
+        "Strategy": "Equity Long Short - Directional",
+        "Inception Date": "2019-06-07T17:06:19Z",
+        "Regional Focus": "France",
+        "YTD Performance (%)": "3.77"
+    },
+    {
+        "Name": "Sawayn-Bauch",
+        "AUM": "$768115697.40",
+        "Strategy": "Equity Long Short - Directional",
+        "Inception Date": "2020-09-24T12:39:15Z",
+        "Regional Focus": "Libya",
+        "YTD Performance (%)": "7.97"
+    },
+    {
+        "Name": "Quitzon, Wiegand and Little",
+        "AUM": "$680416169.07",
+        "Strategy": "Activist - Active Engagement",
+        "Inception Date": "2019-12-18T11:57:07Z",
+        "Regional Focus": "France",
+        "YTD Performance (%)": "5.96"
+    }
+]
